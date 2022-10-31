@@ -1,2 +1,2 @@
 # Error_Correcting_Codes
-This repository holds different files related to Error Correcting Codes such as computations on codes and calculating bounds.
+This repository holds different files related to Error Correcting Codes such as computations on codes and calculating bounds. The file 'compute_tables_on_bounds' produces some tables for bounds on the sizes of codes pertaining to the dimension of the codes and their minimum distance. The file 'compute_linear_codes' contains some basic functions for polynomial arithmitic, arithmatic in finite fields for both scalars and matrices, calculations on specific codes, and computing bounds on the sizes on codes. Lastly, the file 'examples_compute_linear_codes' has some examples using the functions in 'compute_linear_codes'.
