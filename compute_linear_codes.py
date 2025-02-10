@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Mar 30 15:28:03 2022
-
 @author: Mikkel Hviid Thorn
 
 Module to calculate a few facts about a code given its generator matrix. Many
@@ -844,7 +841,3 @@ def all_bounds(q,n,d):
         print(f'The parameters are q={q}, n={n} and d={d}.','\n')
         print(f'Hamming Bound: {hamming_bound(q,n,d)}')
         print(f'Singleton Bound: {singleton_bound(q,n,d)}')
-
-
-
-

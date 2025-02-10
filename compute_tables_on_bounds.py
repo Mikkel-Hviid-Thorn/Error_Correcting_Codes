@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May  2 10:44:29 2022
-
 @author: Mikkel Hviid Thorn
 
 Computing tables for possible values on A_q(n,d) and B_q(n,d).

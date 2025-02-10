@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Apr  1 10:42:35 2022
-
 @author: Mikkel Hviid Thorn
 
 Examples on how to use the module compute_linear_codes or CLC.
@@ -128,4 +125,3 @@ Example 4:
 
 # Printing the result
 #print('The parity check matrix for a Hamming code','\n',np.array(CLC.hamming(3,p=5)),'\n')
-
